@@ -1,1 +1,1 @@
-# Priority-Queue-Quiz
+Priority Queue is similar to a queue or stack data structure, however each element in the queue has its priority. Element with low priority comes first and an element with high priority after the element that has lower priority. But if they have the same priority the stand in their order like in ordinary queue. There are some operations that we use in priority queue, which are isEmpty (checks if empt), isFull (check if full), delete (removes), insert. 
